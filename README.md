@@ -7,3 +7,5 @@ asi como un enlace de la imagen que se quiera agregar al elemento para ilustrarl
 de tiempo. 
 Clickeando en cada punto que se ordena segun la fecha, se muestra u oculta la información del elemento que corresponda a ese punto
 en la linea.
+
+<a href="https://fabran99.github.io/lineaTiempoReact/">Click aquí para probarla </a>
