@@ -15,3 +15,8 @@ Añadida nueva funcion- 06/02/19
 
 Agregado campo textarea para información mas extensa, clickeando en el cuadro de ver detalle de cada punto se muestra en pantalla entera
 el contenido agregado, pudiendo ocultarlo de igual manera.
+
+
+Añadida nueva funcion- 18/02/19
+
+Se agrega la funcionalidad de guardar la linea de tiempo utilizando local storage.
